@@ -1,0 +1,7 @@
+# Verified locally with Python 3.13, torch 2.8.0+cu128 / torchvision 0.23.0+cu128.
+# Install a matching torch/torchvision pair for your hardware.
+torch
+torchvision
+Pillow
+numpy
+tensorboard
